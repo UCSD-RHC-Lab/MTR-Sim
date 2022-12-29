@@ -4,13 +4,13 @@
 
 [Introduction](#introduction)
 
-[Figma Overview](#figma overview)
+[Figma Overview](#figma-overview)
 
-[Data Collection](#data collection)
+[Data Collection](#data-collection)
 
-[Prototype Construction](#prototype construction)
+[Prototype Construction](#prototype-construction)
 
-[Using the Prototype](#using the prototype)
+[Using the Prototype](#using-the-prototype)
 
 ## Introduction
 
