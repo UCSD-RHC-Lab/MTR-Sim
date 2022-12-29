@@ -53,10 +53,9 @@ Another experimenter teleoperated the robot in the simulation center and interac
 
 ## Prototype Construction
 
-We used the footage recorded at the simulation center to create our prototype. We extracted frames from the videos and chose frames that were approximately evenly spaced and were not blurry. We added these frames to the Figma. We iteratively designed a control interface for the robot and overlaid the interface on the frames. We then added flows in Figma between the frames so pushing a button on the interface caused the frame to change as if the robot moved. For instance, if a user clicked the button to move the robot's base forward, the frame would change as if the robot moved forward a few feet.
+We used the footage recorded at the simulation center to create our prototype. We extracted frames from the videos and chose frames that were approximately evenly spaced and were not blurry. We added these frames to the Figma. We iteratively designed a control interface for the robot and overlaid the interface on the frames. We then added flows in Figma between the frames so pushing a button on the interface caused the frame to change as if the robot moved. For instance, if a user clicked the button to move the robot's base forward, the frame would change as if the robot moved forward a few feet (Fig. 1).
 
-![image](https://user-images.githubusercontent.com/11902748/210016372-ab5b08e4-1f1c-4d5b-9ddc-b212421aa8de.png)
-![image](https://user-images.githubusercontent.com/11902748/210016432-c7fadd8c-9b3d-4f21-b606-e671eb0412e0.png)
+![figma_forward](https://user-images.githubusercontent.com/11902748/210017088-0a9a7fff-e3cd-44b5-b327-5b5bf532e41c.png)
 <b>Figure 1:</b> In our Figma prototype, pushing the button to move the base forward caused the frame to change as if the robot had moved forward.
 
 ## Using the Prototype
