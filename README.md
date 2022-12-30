@@ -48,7 +48,7 @@ If you are new to Figma, there are many tutorials you can use to learn how to us
 We collected images for the Figma prototype at a medical simulation center. We reserved a room in the simulation center to record footage of the robot. The room had a patient simulator in a hospital bed and a handheld protable ultrasound, as well as various other medical equipment.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/11902748/210017424-bca4f806-0bb9-4546-a322-78da01e45573.jpg" width=860></img>
+<img src="https://user-images.githubusercontent.com/11902748/210017424-bca4f806-0bb9-4546-a322-78da01e45573.jpg" width=420></img>
 </p>
 
 <b>Figure 1:</b> The Stretch robot in the medical simulation center.
