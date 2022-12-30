@@ -47,7 +47,7 @@ If you are new to Figma, there are many tutorials you can use to learn how to us
 
 We collected images for the Figma prototype at a medical simulation center. We reserved a room in the simulation center to record footage of the robot. The room had a patient simulator in a hospital bed and a handheld protable ultrasound, as well as various other medical equipment.
 
-![stretch](https://user-images.githubusercontent.com/11902748/210017424-bca4f806-0bb9-4546-a322-78da01e45573.jpg)
+![stretch](https://user-images.githubusercontent.com/11902748/210017424-bca4f806-0bb9-4546-a322-78da01e45573.jpg | width=860)
 <b>Figure 1:</b>
 
 We used the [Stretch RE1](https://hello-robot.com/product) robot from Hello Robot in our prototype. We took the Stretch to the simulation center and mounted two GoPro cameras on top of it, near its head camera. We used GoPros because we planned to replace the head camera with a different camera, and the GoPros more closely matched the field of view and resolution we wanted. Because the GoPros were not actuated, one experimenter manually controlled the position of the GoPros during the recording.
