@@ -39,7 +39,7 @@ Bibtex format:
 
 ## Figma Overview
 
-Figma is a design tool that can be used to quickly prototype and test designs. In our case, we used Figma to design a control interface and interruption mitigation strategies for a MTR. We also used Figma to test our designs with ED HCWs.
+Figma is a design tool that can be used to quickly prototype and test designs. In our case, we designed a control interface and interruption mitigation strategies for a MTR. We then used Figma to prototype and test our designs with ED HCWs.
 
 If you are new to Figma, there are many tutorials you can use to learn how to use it. See some tutorials [here](https://help.figma.com/hc/en-us/sections/4405269443991-Figma-for-Beginners-4-parts-).
 
@@ -51,7 +51,9 @@ We collected images for the Figma prototype at a medical simulation center. We r
 <img src="https://user-images.githubusercontent.com/11902748/210017424-bca4f806-0bb9-4546-a322-78da01e45573.jpg" width=420></img>
 </p>
 
+<p align="center">
 <b>Figure 1:</b> The Stretch robot in the medical simulation center.
+</p>
 
 We used the [Stretch RE1](https://hello-robot.com/product) robot from Hello Robot in our prototype. We took the Stretch to the simulation center and mounted two GoPro cameras on top of it, near its head camera. We used GoPros because we planned to replace the head camera with a different camera, and the GoPros more closely matched the field of view and resolution we wanted. Because the GoPros were not actuated, one experimenter manually controlled the position of the GoPros during the recording.
 
@@ -61,7 +63,54 @@ Another experimenter teleoperated the robot in the simulation center and interac
 
 We used the footage recorded at the simulation center to create our prototype. We extracted frames from the videos and chose frames that were approximately evenly spaced and were not blurry. We added these frames to the Figma. We iteratively designed a control interface for the robot and overlaid the interface on the frames. We then added flows in Figma between the frames so pushing a button on the interface caused the frame to change as if the robot moved. For instance, if a user clicked the button to move the robot's base forward, the frame would change as if the robot moved forward a few feet (Fig. 1).
 
+<p align="center">
 ![figma_forward](https://user-images.githubusercontent.com/11902748/210017088-0a9a7fff-e3cd-44b5-b327-5b5bf532e41c.png)
+</p>
+
+<p align="center">
 <b>Figure 1:</b> In our Figma prototype, pushing the button to move the base forward caused the frame to change as if the robot had moved forward.
+</p>
 
 ## Using the Prototype
+
+To use the prototype, make a copy of it.
+
+Follow [this link](https://www.figma.com/community/file/1190400578743283663) and click the "Get a copy" button.
+
+<p align="center">
+![get_copy](https://user-images.githubusercontent.com/11902748/210149256-a88af4c9-fb1f-48eb-910d-c3e72e846bd7.png)
+</p>
+
+<p align="center">
+<b>Figure 3:</b> Make a copy of the prototype in Figma.
+</p>
+
+You can then edit the Figma prototype to fit your needs.
+
+<p align="center">
+![edit_figma](https://user-images.githubusercontent.com/11902748/210149355-6f4f3353-fbfa-43f3-a608-295cd2b696b9.png)
+</p>
+
+<p align="center">
+<b>Figure 4:</b> Edit the prototype in Figma as needed.
+</p>
+
+Run the prototype in Figma by selecting the frame you want to start from. Then press the "Present" button.
+
+<p align="center">
+![run_figma](https://user-images.githubusercontent.com/11902748/210149499-581ffb0a-bfc5-4638-a850-d860a8ccef82.png)
+</p>
+
+<p align="center">
+<b>Figure 5:</b> Run the Figma by pressing the "Present" button in the upper right corner. The Figma will start on the frame labeled "Start" because that frame is selected.
+</p>
+
+A new tab will open where you can click through the Figma using the buttons.
+
+<p align="center">
+![presenting_figma](https://user-images.githubusercontent.com/11902748/210149590-457a2a98-30d4-4903-a6f0-b875e3532ba5.png)
+</p>
+
+<p align="center">
+<b>Figure 6:</b> When you run the Figma, a new tab opens where you can click through the prototype using the buttons.
+</p>
