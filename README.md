@@ -85,20 +85,20 @@ Follow [this link](https://www.figma.com/community/file/1190400578743283663) and
 <b>Figure 3:</b> Make a copy of the prototype in Figma.
 </p>
 
-You can then edit the Figma prototype to fit your needs.
+You can then edit the Figma prototype to fit your needs. You can edit components by clicking on the "Design" tab, and you can edit flows by clicking on the "Prototype" tab.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/11902748/210149355-6f4f3353-fbfa-43f3-a608-295cd2b696b9.png"></img>
+<img src="https://user-images.githubusercontent.com/11902748/210150184-9d6970b3-ac04-46ad-b0a0-fca7f394edcb.png"></img>
 </p>
 
 <p align="center">
-<b>Figure 4:</b> Edit the prototype in Figma as needed.
+<b>Figure 4:</b> When the "Design" tab is clicked, you can edit components in the Figma. When the "Prototype" tab is clicked, you can edit flows in the Figma.
 </p>
 
 Run the prototype in Figma by selecting the frame you want to start from. Then press the "Present" button.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/11902748/210149499-581ffb0a-bfc5-4638-a850-d860a8ccef82.png"></img>
+<img src="https://user-images.githubusercontent.com/11902748/210149977-29ca19da-7d88-44db-91f0-1307fa502951.png"></img>
 </p>
 
 <p align="center">
