@@ -85,14 +85,14 @@ Follow [this link](https://www.figma.com/community/file/1190400578743283663) and
 <b>Figure 3:</b> Make a copy of the prototype in Figma.
 </p>
 
-You can then edit the Figma prototype to fit your needs. You can edit components by clicking on the "Design" tab, and you can edit flows by clicking on the "Prototype" tab.
+You can then edit the Figma prototype to fit your needs. You can edit components by clicking on the "Design" tab, and you can edit flows (transitions between frames) by clicking on the "Prototype" tab.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/11902748/210150184-9d6970b3-ac04-46ad-b0a0-fca7f394edcb.png"></img>
 </p>
 
 <p align="center">
-<b>Figure 4:</b> When the "Design" tab is clicked, you can edit components in the Figma. When the "Prototype" tab is clicked, you can edit flows in the Figma.
+<b>Figure 4:</b> When the "Design" tab is clicked, you can edit components. When the "Prototype" tab is clicked, you can edit flows.
 </p>
 
 Run the prototype in Figma by selecting the frame you want to start from. Then press the "Present" button.
@@ -102,7 +102,7 @@ Run the prototype in Figma by selecting the frame you want to start from. Then p
 </p>
 
 <p align="center">
-<b>Figure 5:</b> Run the Figma by pressing the "Present" button in the upper right corner. The Figma will start on the frame labeled "Start" because that frame is selected.
+<b>Figure 5:</b> Run the Figma by pressing the "Present" button in the upper right corner. It will begin on the frame labeled "Start" because that frame is selected.
 </p>
 
 A new tab will open where you can click through the Figma using the buttons.
