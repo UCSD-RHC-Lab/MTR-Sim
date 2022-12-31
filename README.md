@@ -41,6 +41,8 @@ Bibtex format:
 
 Figma is a design tool that can be used to quickly prototype and test designs. In our case, we designed a control interface and interruption mitigation strategies for a MTR. We then used Figma to prototype and test our designs with ED HCWs.
 
+In Figma, you can make frames and flows. When you run a Figma prototype, a frame is displayed on the screen, and flows transition between the frames. For instance, we made a frame with an image of a medical simulation center room from a camera on a robot. We added a buttons from a control interface we designed on top of this image. Then, we made a flow so that when the forwrad button was pressed, the image changed to simulate the robot moving forward. Fig. 2 shows two consecutive frames in our Figma prototype, and Fig. 4 shows flows between frames.
+
 If you are new to Figma, there are many tutorials you can use to learn how to use it. See some tutorials [here](https://help.figma.com/hc/en-us/sections/4405269443991-Figma-for-Beginners-4-parts-).
 
 ## Data Collection
@@ -68,7 +70,7 @@ We used the footage recorded at the simulation center to create our prototype. W
 </p>
 
 <p align="center">
-<b>Figure 1:</b> In our Figma prototype, pushing the button to move the base forward caused the frame to change as if the robot had moved forward.
+<b>Figure 2:</b> In our Figma prototype, pushing the button to move the base forward caused the frame to change as if the robot had moved forward.
 </p>
 
 ## Using the Prototype
