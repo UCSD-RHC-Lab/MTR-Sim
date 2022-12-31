@@ -64,7 +64,7 @@ Another experimenter teleoperated the robot in the simulation center and interac
 We used the footage recorded at the simulation center to create our prototype. We extracted frames from the videos and chose frames that were approximately evenly spaced and were not blurry. We added these frames to the Figma. We iteratively designed a control interface for the robot and overlaid the interface on the frames. We then added flows in Figma between the frames so pushing a button on the interface caused the frame to change as if the robot moved. For instance, if a user clicked the button to move the robot's base forward, the frame would change as if the robot moved forward a few feet (Fig. 1).
 
 <p align="center">
-![figma_forward](https://user-images.githubusercontent.com/11902748/210017088-0a9a7fff-e3cd-44b5-b327-5b5bf532e41c.png)
+<img src="https://user-images.githubusercontent.com/11902748/210017088-0a9a7fff-e3cd-44b5-b327-5b5bf532e41c.png"</img>
 </p>
 
 <p align="center">
@@ -78,7 +78,7 @@ To use the prototype, make a copy of it.
 Follow [this link](https://www.figma.com/community/file/1190400578743283663) and click the "Get a copy" button.
 
 <p align="center">
-![get_copy](https://user-images.githubusercontent.com/11902748/210149256-a88af4c9-fb1f-48eb-910d-c3e72e846bd7.png)
+<img src="https://user-images.githubusercontent.com/11902748/210149256-a88af4c9-fb1f-48eb-910d-c3e72e846bd7.png"></img>
 </p>
 
 <p align="center">
@@ -88,7 +88,7 @@ Follow [this link](https://www.figma.com/community/file/1190400578743283663) and
 You can then edit the Figma prototype to fit your needs.
 
 <p align="center">
-![edit_figma](https://user-images.githubusercontent.com/11902748/210149355-6f4f3353-fbfa-43f3-a608-295cd2b696b9.png)
+<img src="https://user-images.githubusercontent.com/11902748/210149355-6f4f3353-fbfa-43f3-a608-295cd2b696b9.png"></img>
 </p>
 
 <p align="center">
@@ -98,7 +98,7 @@ You can then edit the Figma prototype to fit your needs.
 Run the prototype in Figma by selecting the frame you want to start from. Then press the "Present" button.
 
 <p align="center">
-![run_figma](https://user-images.githubusercontent.com/11902748/210149499-581ffb0a-bfc5-4638-a850-d860a8ccef82.png)
+<img src="https://user-images.githubusercontent.com/11902748/210149499-581ffb0a-bfc5-4638-a850-d860a8ccef82.png"></img>
 </p>
 
 <p align="center">
@@ -108,7 +108,7 @@ Run the prototype in Figma by selecting the frame you want to start from. Then p
 A new tab will open where you can click through the Figma using the buttons.
 
 <p align="center">
-![presenting_figma](https://user-images.githubusercontent.com/11902748/210149590-457a2a98-30d4-4903-a6f0-b875e3532ba5.png)
+<img src="https://user-images.githubusercontent.com/11902748/210149590-457a2a98-30d4-4903-a6f0-b875e3532ba5.png"></img>
 </p>
 
 <p align="center">
