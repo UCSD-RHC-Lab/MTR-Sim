@@ -18,7 +18,7 @@
 
 Emergency departments (EDs) are dynamic, safety-critical environments where healthcare workers (HCWs) are interrupted as often as once every six minutes. These interruptions increase the risk of errors and preventable patient harm. As more robots enter hospitals and EDs, they must support HCWs in handling these interruptions, ideally mitigating the harmful effects of interruptions without disrupting ED communication. However, interruption-mitigation strategies are not well understood, particularly for mobile telemanipulator robots (MTRs).
 
-We created a realistic prototype where people can simulate teleoperating a MTR in an ED. Using this prototype, we conducted a study in which ED HCWs were occasionally interrupted while using the prototype to simulate conducted patient care with an MTR. Our findings revealed insights on how MTRs might support multitasking in environments with frequent task switching, and the place of autonomy in safety-critical spaces.
+We created a realistic prototype where people can simulate teleoperating a MTR to conduct patient care in an ED. Using this prototype, we conducted a study in which ED HCWs were occasionally interrupted while using the prototype. Our findings revealed insights on how MTRs might support multitasking in environments with frequent task switching, and the place of autonomy in safety-critical spaces.
 
 Here, we describe the prototype we made and explain how to use it.
 
