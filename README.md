@@ -45,7 +45,7 @@ Bibtex format:
 
 Figma is a design tool that can be used to quickly prototype and test designs. In our case, we designed a control interface and interruption mitigation strategies for a MTR. We then used Figma to prototype and test our designs with ED HCWs.
 
-In Figma, you can make frames and flows. When you run a Figma prototype, a frame is displayed on the screen, and flows transition between the frames. For instance, we made a frame with an image of a medical simulation center room from a camera on a robot. We added a buttons from a control interface we designed on top of this image. Then, we made a flow so that when the forwrad button was pressed, the image changed to simulate the robot moving forward. Fig. 2 shows two consecutive frames in our Figma prototype, and Fig. 4 shows flows between frames.
+In Figma, you can make frames and flows. When you run a Figma prototype, a frame is displayed on the screen, and flows transition between the frames. For instance, we made a frame with an image of a medical simulation center room from a camera on a robot. We added a buttons from a control interface we designed on top of this image. Then, we made a flow so that when the forwrad button was pressed, the image changed to simulate the robot moving forward. Fig. 1 shows two consecutive frames in our Figma prototype, and Fig. 3 shows flows between frames.
 
 If you are new to Figma, there are many tutorials you can use to learn how to use it. See some tutorials [here](https://help.figma.com/hc/en-us/sections/4405269443991-Figma-for-Beginners-4-parts-).
 
@@ -53,20 +53,20 @@ If you are new to Figma, there are many tutorials you can use to learn how to us
 
 We collected images for the Figma prototype at a medical simulation center. We reserved a room in the simulation center to record footage of the robot. The room had a patient simulator in a hospital bed and a handheld protable ultrasound, as well as various other medical equipment.
 
-We used the [Stretch RE1](https://hello-robot.com/product) robot (Fig. 1) from Hello Robot in our prototype. We took the Stretch to the simulation center and mounted two GoPro cameras on top of it, near its head camera. We used GoPros because we planned to replace the head camera with a different camera, and the GoPros more closely matched the field of view and resolution we wanted. Because the GoPros were not actuated, one experimenter manually controlled the position of the GoPros during the recording. Additionally, during manipulation tasks, we placed a phone on the robot's wrist to simulate a camera mounted to the robot's wrist, a feature we also planned to add to the robot.
+We used the [Stretch RE1](https://hello-robot.com/product) robot from Hello Robot in our prototype. We took the Stretch to the simulation center and mounted two GoPro cameras on top of it, near its head camera. We used GoPros because we planned to replace the head camera with a different camera, and the GoPros more closely matched the field of view and resolution we wanted. Because the GoPros were not actuated, one experimenter manually controlled the position of the GoPros during the recording. Additionally, during manipulation tasks, we placed a phone on the robot's wrist to simulate a camera mounted to the robot's wrist, a feature we also planned to add to the robot.
 
 Another experimenter teleoperated the robot in the simulation center and interacted with the patient simulator as if they were providing care for a patient. The experimenter moved the robot around the room, picked up the ultrasound probe, and pretended to administer an ultrasound on the patient simulator. All of these actions were recorded on the GoPros, and some were also recorded on the phone camera.
 
 ## Prototype Construction
 
-We used the footage recorded at the simulation center to create our prototype. We extracted frames from the videos and chose frames that were approximately evenly spaced and were not blurry. We added these frames to the Figma. We iteratively designed a control interface for the robot and overlaid the interface on the frames. We then added flows in Figma between the frames so pushing a button on the interface caused the frame to change as if the robot moved. For instance, if a user clicked the button to move the robot's base forward, the frame would change as if the robot moved forward a few feet (Fig. 1).
+We used the footage recorded at the simulation center to create our prototype. We extracted frames from the videos and chose frames that were approximately evenly spaced and were not blurry. We added these frames to the Figma. We iteratively designed a control interface for the robot and overlaid the interface on the frames. We then added flows in Figma between the frames so pushing a button on the interface caused the frame to change as if the robot moved. For instance, if a user clicked the button to move the robot's base forward, the frame would change as if the robot moved forward a few feet.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/11902748/210017088-0a9a7fff-e3cd-44b5-b327-5b5bf532e41c.png"</img>
 </p>
 
 <p align="center">
-<b>Figure 2:</b> In our Figma prototype, pushing the button to move the base forward caused the frame to change as if the robot had moved forward.
+<b>Figure 1:</b> In our Figma prototype, pushing the button to move the base forward caused the frame to change as if the robot had moved forward.
 </p>
 
 ## Using the Prototype
@@ -80,7 +80,7 @@ Follow [this link](https://www.figma.com/community/file/1190400578743283663) and
 </p>
 
 <p align="center">
-<b>Figure 3:</b> Make a copy of the prototype in Figma.
+<b>Figure 2:</b> Make a copy of the prototype in Figma.
 </p>
 
 You can then edit the Figma prototype to fit your needs. You can edit components by clicking on the "Design" tab, and you can edit flows (transitions between frames) by clicking on the "Prototype" tab.
@@ -90,7 +90,7 @@ You can then edit the Figma prototype to fit your needs. You can edit components
 </p>
 
 <p align="center">
-<b>Figure 4:</b> When the "Design" tab is clicked, you can edit components. When the "Prototype" tab is clicked, you can edit flows.
+<b>Figure 3:</b> When the "Design" tab is clicked, you can edit components. When the "Prototype" tab is clicked, you can edit flows.
 </p>
 
 Run the prototype in Figma by selecting the frame you want to start from. Then press the "Present" button.
@@ -100,7 +100,7 @@ Run the prototype in Figma by selecting the frame you want to start from. Then p
 </p>
 
 <p align="center">
-<b>Figure 5:</b> Run the Figma by pressing the "Present" button in the upper right corner. It will begin on the frame labeled "Start" because that frame is selected.
+<b>Figure 4:</b> Run the Figma by pressing the "Present" button in the upper right corner. It will begin on the frame labeled "Start" because that frame is selected.
 </p>
 
 A new tab will open where you can click through the Figma using the buttons.
@@ -110,5 +110,5 @@ A new tab will open where you can click through the Figma using the buttons.
 </p>
 
 <p align="center">
-<b>Figure 6:</b> When you run the Figma, a new tab opens where you can click through the prototype using the buttons.
+<b>Figure 5:</b> When you run the Figma, a new tab opens where you can click through the prototype using the buttons.
 </p>
