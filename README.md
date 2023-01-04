@@ -8,8 +8,6 @@ We present the realistic prototype we used in [our study](https://cseweb.ucsd.ed
 
 <p align="right">
 <img src="https://user-images.githubusercontent.com/11902748/210017424-bca4f806-0bb9-4546-a322-78da01e45573.jpg" width=400>
-
-<b>Figure 1:</b> The Stretch robot in the medical simulation center.
 </p>
 
 [Introduction](#introduction)
@@ -21,6 +19,12 @@ We present the realistic prototype we used in [our study](https://cseweb.ucsd.ed
 [Prototype Construction](#prototype-construction)
 
 [Using the Prototype](#using-the-prototype)
+
+<p align="right">
+<b>Figure 1:</b> The Stretch robot in the medical simulation center.
+</p>
+
+
 
 ## Introduction
 
