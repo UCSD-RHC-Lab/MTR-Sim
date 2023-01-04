@@ -1,6 +1,6 @@
 # Interruption-Mitigation Strategies for Mobile Telemanipulator Robots
 
-<div align="right"><img src="https://user-images.githubusercontent.com/11902748/210017424-bca4f806-0bb9-4546-a322-78da01e45573.jpg" align="right" width=300>
+<div align="right"><img src="https://user-images.githubusercontent.com/11902748/210017424-bca4f806-0bb9-4546-a322-78da01e45573.jpg" width=300>
 
 <b>Figure 1:</b> The Stretch robot in the medical simulation center.</div>
 
