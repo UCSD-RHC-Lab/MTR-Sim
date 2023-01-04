@@ -1,12 +1,12 @@
 # Interruption-Mitigation Strategies for Mobile Telemanipulator Robots
 
+<img src="https://user-images.githubusercontent.com/11902748/210017424-bca4f806-0bb9-4546-a322-78da01e45573.jpg" align="right" width=400>
+
 We present the realistic prototype we used in [our study](https://cseweb.ucsd.edu/~smatsumo/HRI2023_matsumoto.pdf) exploring interruption-mitigation strategies for mobile telemanipulator robots. We describe how we created the prototype and how to use it.
 
 [Figma Prototype](https://www.figma.com/community/file/1190400578743283663)
 
 ## Contents
-
-<img src="https://user-images.githubusercontent.com/11902748/210017424-bca4f806-0bb9-4546-a322-78da01e45573.jpg" align="right" width=400>
 
 [Introduction](#introduction)
 
