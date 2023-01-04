@@ -4,15 +4,13 @@ We present the realistic prototype we used in [our study](https://cseweb.ucsd.ed
 
 [Figma Prototype](https://www.figma.com/community/file/1190400578743283663)
 
-<div float="right" width=450>
-<p align="center">
+<p align="left">
 <img src="https://user-images.githubusercontent.com/11902748/210017424-bca4f806-0bb9-4546-a322-78da01e45573.jpg" width=420></img>
 </p>
 
-<p align="center">
+<p align="left">
 <b>Figure 1:</b> The Stretch robot in the medical simulation center.
 </p>
-</div>
 
 ## Contents
 
@@ -61,7 +59,7 @@ If you are new to Figma, there are many tutorials you can use to learn how to us
 
 We collected images for the Figma prototype at a medical simulation center. We reserved a room in the simulation center to record footage of the robot. The room had a patient simulator in a hospital bed and a handheld protable ultrasound, as well as various other medical equipment.
 
-We used the [Stretch RE1](https://hello-robot.com/product) robot from Hello Robot in our prototype. We took the Stretch to the simulation center and mounted two GoPro cameras on top of it, near its head camera. We used GoPros because we planned to replace the head camera with a different camera, and the GoPros more closely matched the field of view and resolution we wanted. Because the GoPros were not actuated, one experimenter manually controlled the position of the GoPros during the recording. Additionally, during manipulation tasks, we placed a phone on the robot's wrist to simulate a camera mounted to the robot's wrist, a feature we also planned to add to the robot.
+We used the [Stretch RE1](https://hello-robot.com/product) robot (Fig. 1) from Hello Robot in our prototype. We took the Stretch to the simulation center and mounted two GoPro cameras on top of it, near its head camera. We used GoPros because we planned to replace the head camera with a different camera, and the GoPros more closely matched the field of view and resolution we wanted. Because the GoPros were not actuated, one experimenter manually controlled the position of the GoPros during the recording. Additionally, during manipulation tasks, we placed a phone on the robot's wrist to simulate a camera mounted to the robot's wrist, a feature we also planned to add to the robot.
 
 Another experimenter teleoperated the robot in the simulation center and interacted with the patient simulator as if they were providing care for a patient. The experimenter moved the robot around the room, picked up the ultrasound probe, and pretended to administer an ultrasound on the patient simulator. All of these actions were recorded on the GoPros, and some were also recorded on the phone camera.
 
