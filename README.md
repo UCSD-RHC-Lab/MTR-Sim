@@ -2,7 +2,8 @@
 
 <img src="https://user-images.githubusercontent.com/11902748/210017424-bca4f806-0bb9-4546-a322-78da01e45573.jpg" width=250>
 
-{: .alert .alert-info .text-right}<b>Figure 1:</b> The Stretch robot in the medical simulation center.
+<b>Figure 1:</b> The Stretch robot in the medical simulation center.
+{: .alert .alert-info .text-right}
 
 <div align="left" width="300">We present the realistic prototype we used in [our study](https://cseweb.ucsd.edu/~smatsumo/HRI2023_matsumoto.pdf) exploring interruption-mitigation strategies for mobile telemanipulator robots. We describe how we created the prototype and how to use it.</div>
 
