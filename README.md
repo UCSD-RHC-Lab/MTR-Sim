@@ -4,11 +4,11 @@ We present the realistic prototype we used in [our study](https://cseweb.ucsd.ed
 
 [Figma Prototype](https://www.figma.com/community/file/1190400578743283663)
 
-<p align="left">
+<p align="right">
 <img src="https://user-images.githubusercontent.com/11902748/210017424-bca4f806-0bb9-4546-a322-78da01e45573.jpg" width=420></img>
 </p>
 
-<p align="left">
+<p align="right">
 <b>Figure 1:</b> The Stretch robot in the medical simulation center.
 </p>
 
