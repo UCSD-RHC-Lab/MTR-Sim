@@ -1,4 +1,6 @@
-# Strategies for Mobile Telepresence Robots to Support Users during Interruptions
+# Interruption-Mitigation Strategies for Mobile Telemanipulator Robots
+
+We present the realistic prototype we used in [our study](https://cseweb.ucsd.edu/~smatsumo/HRI2023_matsumoto.pdf) exploring interruption-mitigation strategies for mobile telemanipulator robots. We describe how we created the prototype and how to use it.
 
 [Figma Prototype](https://www.figma.com/community/file/1190400578743283663)
 
