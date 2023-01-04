@@ -1,4 +1,4 @@
-# MTR_Interruptions
+# Strategies for Mobile Telepresence Robots to Support Users during Interruptions
 
 [Figma Prototype](https://www.figma.com/community/file/1190400578743283663)
 
