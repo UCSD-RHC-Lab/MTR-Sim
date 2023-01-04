@@ -7,7 +7,7 @@ We present the realistic prototype we used in [our study](https://cseweb.ucsd.ed
 ## Contents
 
 <p align="right">
-<img src="https://user-images.githubusercontent.com/11902748/210017424-bca4f806-0bb9-4546-a322-78da01e45573.jpg" width=420></img>
+<img src="https://user-images.githubusercontent.com/11902748/210017424-bca4f806-0bb9-4546-a322-78da01e45573.jpg" width=400></img>
 </p>
 
 <p align="right">
