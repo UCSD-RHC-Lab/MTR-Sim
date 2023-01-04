@@ -4,7 +4,7 @@
 
 <b>Figure 1:</b> The Stretch robot in the medical simulation center.</div>
 
-<div align="left" width=500>We present the realistic prototype we used in [our study](https://cseweb.ucsd.edu/~smatsumo/HRI2023_matsumoto.pdf) exploring interruption-mitigation strategies for mobile telemanipulator robots. We describe how we created the prototype and how to use it.</div>
+<div align="left" width=400>We present the realistic prototype we used in [our study](https://cseweb.ucsd.edu/~smatsumo/HRI2023_matsumoto.pdf) exploring interruption-mitigation strategies for mobile telemanipulator robots. We describe how we created the prototype and how to use it.</div>
 
 [Figma Prototype](https://www.figma.com/community/file/1190400578743283663)
 
