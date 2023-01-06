@@ -1,10 +1,22 @@
 # Mobile Telemanipulator Robot Simulator (MTR-Sim) for Healthcare
-
 <img src="https://user-images.githubusercontent.com/11902748/210017424-bca4f806-0bb9-4546-a322-78da01e45573.jpg" align="right" width=300>
 
-We present the realistic prototype we used in [our study](https://doi.org/10.1145/3568162.3576994) exploring interruption-mitigation strategies for mobile telemanipulator robots. We describe how we created the prototype and how to use it.
+We developed a realistic Figma-based prototype which enables a person to operate a mobile telemanipulator robot (MTR) in a clinical simulation setting. The simulation is designed so clinicians are interrupted at regular interverals, and must make decisions about how to proceed. 
 
-[Figma Prototype](https://www.figma.com/community/file/1190400578743283663)
+We conducted [a study](https://doi.org/10.1145/3568162.3576994) which explores interruption mitigiation stategies for MTR. The prototype and materials used in the study and how to use it are described herein. 
+
+If you use this work, please cite our paper:
+
+S. Matsumoto, P. Ghosh, R. Jamshad, and L. D. Riek. Robot, Uninterrupted: Telemedical Robots to Mitigate Care Disruption. In Proceedings of the 2023 ACM/IEEE International Conference on Human-Robot Interaction. 2023.
+
+```
+@inproceedings{matsumoto2023Robot,
+    title={Robot, Uninterrupted: Telemedical Robots to Mitigate Care Disruption},
+    author={Matsumoto, Sachiko and Ghosh, Pratyusha and Jamshad, Rabeya and Riek, Laurel D.},
+    booktitle={Proceedings of the 2023 ACM/IEEE International Conference on Human-Robot Interaction},
+    year={2023}
+}
+```
 
 ## Contents
 
