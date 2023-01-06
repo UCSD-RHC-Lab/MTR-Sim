@@ -1,4 +1,4 @@
-# Interruption-Mitigation Strategies for Mobile Telemanipulator Robots
+# Mobile Telemanipulator Robot Simulator (MTR-Sim) for Healthcare
 
 <img src="https://user-images.githubusercontent.com/11902748/210017424-bca4f806-0bb9-4546-a322-78da01e45573.jpg" align="right" width=300>
 
